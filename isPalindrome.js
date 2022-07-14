@@ -4,5 +4,6 @@ let isPalindrome=(x)=>{
     if(straight===reverse){
       return true;
     }
-    else return false;
+    else 
+    return false;
   }
